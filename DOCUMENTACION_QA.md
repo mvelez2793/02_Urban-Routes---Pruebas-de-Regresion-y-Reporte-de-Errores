@@ -32,7 +32,7 @@ Durante la regresión, identifiqué fallos que afectaban la experiencia del usua
 
 | Bug ID | Título | Severidad |
 | :--- | :--- | :--- |
-| **BR1-02** | El mapa no hace Zoom en la dirección, después de completar el campo "Desde" [14] | 🔴 Crítico [15] |
+| **BR1-02** | El mapa no hace Zoom en la dirección, después de completar el campo "Desde"  | 🔴 Crítico  |
 
 **Pasos para reproducir:**
 1. Abrir la aplicación Urban Routes.
@@ -44,7 +44,7 @@ Durante la regresión, identifiqué fallos que afectaban la experiencia del usua
 El mapa hace zoom sobre el pin de la dirección seleccionada. La vista coincide con la descripción del diseño.
 
 **Resultado Actual:**
-Al ingresar la dirección en el Campo "Desde" no realiza la búsqueda ni el acercamiento esperado [17].
+Al ingresar la dirección en el Campo "Desde" no realiza la búsqueda ni el acercamiento esperado.
 
 ---
 *Documentación estructurada por María Auxiliadora Vélez Mendoza.*
