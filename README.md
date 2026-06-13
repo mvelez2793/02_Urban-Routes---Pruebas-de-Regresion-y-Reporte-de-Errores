@@ -1,3 +1,7 @@
+<div align="right">
+  🌍 <strong>Español</strong> | <a href="README_en.md">English</a>
+</div>
+
 # 🚦 Urban Routes: Pruebas de Regresión y Reporte de Errores
 
 ![Urban Routes App](https://img.shields.io/badge/Project-Regression_Testing-blue) ![Status](https://img.shields.io/badge/Status-Completed-success) ![Tool](https://img.shields.io/badge/Tool-Jira_/_Google_Sheets-green)
